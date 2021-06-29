@@ -1,5 +1,5 @@
 # Installation and Usage
-Simply `git clone` the repository to your home computer. 
+Simply `git clone git@github.com:dreadlesss/Panax_age_predictor.git` the repository to your home computer. 
 
 # Requirements 
 
@@ -30,5 +30,9 @@ jupyter notebook
 # DATASET
 train data set: train_data.xlsx
 
-test data set: test_data.xlsx
+test data set: test_data(merged).xlsx
+
+test set 1:test set 1.xlsx
+
+test set 2:test set 2.xlsx
 

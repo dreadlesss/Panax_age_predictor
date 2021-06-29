@@ -37,7 +37,7 @@ from sklearn.neural_network import MLPRegressor
 from sklearn.neural_network import MLPClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
-import xgboost
+from xgboost import XGBRegressor
 
 from .feature_extractor import Data
 
