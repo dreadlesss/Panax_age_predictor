@@ -1,6 +1,8 @@
 # Installation and Usage
 Simply `git clone git@github.com:dreadlesss/Panax_age_predictor.git` the repository to your home computer. 
 
+For detailed information, please refer to the article: [Identification of intrinsic hepatotoxic compounds in Polygonum multiflorum Thunb. using machine-learning methods. Chin Med. 2021, 16:100](https://cmjournal.biomedcentral.com/track/pdf/10.1186/s13020-021-00511-5.pdf).
+
 # Requirements 
 
 The code is written in [Python 3.8.10] and mainly uses the following packages:
